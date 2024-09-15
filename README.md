@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn how to create a functional and well-designed **Survey Form** using **HTML** and **CSS**.
 
+[Survey Form](https://freecodecamp-responsive-web-design.github.io/survey-form/)
+
 ## In this project, you will:
 - Design a survey form with various **form elements** including text fields, radio buttons, checkboxes, and dropdowns.
 - Implement **form validation** to ensure that user inputs are correctly formatted and required fields are completed.
